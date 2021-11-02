@@ -6,7 +6,8 @@
 
 ### below is the source code for the same.
 
-```import random
+```
+import random
 choices = ["Rock", "Paper", "Scissors"]
 computer = random.choice(choices)
 player = False
