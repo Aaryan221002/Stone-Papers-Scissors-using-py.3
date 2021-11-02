@@ -1,10 +1,10 @@
 # Stone-Papers-Scissors-using-py.3
-##just made Stone Paper Scissor game using Python 3.
-##Used "random" library to make computer an oponent.
+## just made Stone Paper Scissor game using Python 3.
+## Used "random" library to make computer an oponent.
 
 
 
-###below is the source code for the same.
+### below is the source code for the same.
 
 ```import random
 choices = ["Rock", "Paper", "Scissors"]
