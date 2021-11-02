@@ -1,4 +1,4 @@
-# Stone-Papers-Scissors-using-py.3
+# Stone-Paper-Scissors-using-py.3
 ## just made Stone Paper Scissor game using Python 3.
 ## Used "random" library to make computer an oponent.
 
